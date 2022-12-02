@@ -27,3 +27,7 @@ Python / Visual Studio Code 개발 환경 만들기 : https://www.codingfactory.
 [중등-2] https://www.youtube.com/watch?v=hEzZyjLZpm8  
   
 [고등] https://www.youtube.com/watch?v=ggA9mV3YEDI  
+  
+티처블머신 모델 - 아바타로봇 (두존들기, 한손들기, 오른쪽보기, 왼쪽보기)  
+모델 링크 https://teachablemachine.withgoogle.com/models/9-D41m7EQ/  
+  
