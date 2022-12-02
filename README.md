@@ -15,6 +15,12 @@ pictoblox 프로그램 다운로드 : https://thestempedia.com/product/pictoblox
   
 고등 - 인공지능 어시스턴트 로봇  
 파이썬 프로그램 다운로드 : https://www.python.org/downloads/  
+필요 라이브러리   
+pip installspeechrecognition  
+pip install pyaudio  
+pip install pyttsx3  
+pip install pywhatkit  
+pip install pyserial  
   
     
 [고등참고]  
