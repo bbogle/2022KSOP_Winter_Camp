@@ -1,0 +1,7 @@
+https://teachablemachine.withgoogle.com/models/UyfvV858_/
+
+
+오픈 - 손바닥, 주먹
+
+클로즈 - 손바닥(손가락 개별), 엄지척
+
