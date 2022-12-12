@@ -16,11 +16,13 @@ pictoblox 프로그램 다운로드 : https://thestempedia.com/product/pictoblox
 고등 - 인공지능 어시스턴트 로봇  
 파이썬 프로그램 다운로드 : https://www.python.org/downloads/  
 필요 라이브러리   
-pip installspeechrecognition  
-pip install pyaudio  
+pip install speechrecognition  
+pip install gtts  
 pip install pyttsx3  
-pip install pywhatkit  
 pip install pyserial  
+pip install wikipedia    
+pip install pyaudio  
+pip install pyshatkit  
   
     
 [고등참고]  
@@ -35,5 +37,5 @@ Python / Visual Studio Code 개발 환경 만들기 : https://www.codingfactory.
 [고등] https://www.youtube.com/watch?v=ggA9mV3YEDI  
   
 티처블머신 모델 - 아바타로봇 (두손들기, 한손들기, 오른쪽보기, 왼쪽보기)  
-모델 링크 https://teachablemachine.withgoogle.com/models/9-D41m7EQ/  
+샘플모델 링크 https://teachablemachine.withgoogle.com/models/9-D41m7EQ/  
   
