@@ -23,6 +23,8 @@ pip install pyserial
 pip install wikipedia    
 pip install pyaudio  
 pip install pywhatkit  
+
+***** python.exe -m pip install --upgrade pip *****
   
     
 [고등참고]  
