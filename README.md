@@ -22,7 +22,7 @@ pip install pyttsx3
 pip install pyserial  
 pip install wikipedia    
 pip install pyaudio  
-pip install pyshatkit  
+pip install pywhatkit  
   
     
 [고등참고]  
